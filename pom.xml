@@ -57,4 +57,9 @@
 			</plugin>
 		</plugins>
 	</build>
+    <server>
+      <id>deploy-tomcat</id>
+      <username>tomcat</username>
+      <password>swetha8</password>
+    </server>
 </project>
