@@ -59,7 +59,7 @@
 	</build>
     <server>
       <id>deploy-tomcat</id>
-      <username>tomcat</username>
-      <password>swetha8</password>
+      <username>deployer</username>
+      <password>deployer</password>
     </server>
 </project>
